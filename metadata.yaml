@@ -1,0 +1,33 @@
+_repo: Projet-pour-la-compagnie-des-transports-postes-et-messageries_19982
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_bookshelf:
+- FR Services publics
+- The Philatelic Digital Library Project
+gutenberg_issued: '2006-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19982'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Postal service -- France'
+- !lcc 'HE'
+- !lcsh 'France. Ministère des P.T.T. -- History'
+- !lcc 'DC'
+title: Projet pour la compagnie des transports, postes et messageries
+url: http://www.gutenberg.org/ebooks/19982
